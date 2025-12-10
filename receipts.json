@@ -1,0 +1,98 @@
+[
+  {
+    "Date": "2025-12-10T21:24:54.1928825+02:00",
+    "Items": [
+      {
+        "Product": {
+          "Id": 21,
+          "Name": "Coffee Mug",
+          "Price": 12.00,
+          "Category": "Home"
+        },
+        "Quantity": 1
+      },
+      {
+        "Product": {
+          "Id": 26,
+          "Name": "Gel Pen Set (12-pack)",
+          "Price": 10.50,
+          "Category": "Home"
+        },
+        "Quantity": 1
+      },
+      {
+        "Product": {
+          "Id": 23,
+          "Name": "LED Desk Lamp",
+          "Price": 35.00,
+          "Category": "Home"
+        },
+        "Quantity": 1
+      }
+    ],
+    "Total": 57.50
+  },
+  {
+    "Date": "2025-12-10T22:13:02.119439+02:00",
+    "Items": [
+      {
+        "Product": {
+          "Id": 23,
+          "Name": "LED Desk Lamp",
+          "Price": 35.00,
+          "Category": "Home"
+        },
+        "Quantity": 1
+      },
+      {
+        "Product": {
+          "Id": 27,
+          "Name": "Desk Mat",
+          "Price": 25.00,
+          "Category": "Home"
+        },
+        "Quantity": 2
+      }
+    ],
+    "Total": 85.00
+  },
+  {
+    "Date": "2025-12-10T22:47:52.9364005+02:00",
+    "Items": [
+      {
+        "Product": {
+          "Id": 15,
+          "Name": "F# Programming Book",
+          "Price": 45.00,
+          "Category": "Books"
+        },
+        "Quantity": 1
+      },
+      {
+        "Product": {
+          "Id": 5,
+          "Name": "USB-C Hub",
+          "Price": 25.00,
+          "Category": "Electronics"
+        },
+        "Quantity": 1
+      }
+    ],
+    "Total": 70.00
+  },
+  {
+    "Date": "2025-12-10T22:48:15.0540132+02:00",
+    "Items": [
+      {
+        "Product": {
+          "Id": 5,
+          "Name": "USB-C Hub",
+          "Price": 25.00,
+          "Category": "Electronics"
+        },
+        "Quantity": 4
+      }
+    ],
+    "Total": 100.00
+  }
+]
